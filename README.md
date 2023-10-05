@@ -1,12 +1,4 @@
 # projects-
 Web programming 
-<!DOCTYPE html>
-<html>
-  <head>
-    Hello!!
-  </head>
-
-  <body>
-    <h1>Hello World!</h1>h1>
-  </body>
-</html>
+This is my code on HTML,CSS,Javascript and Python .
+Not perfect but will learn and progress more in this website
