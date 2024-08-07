@@ -1,2 +1,2 @@
-# projects-
-AI and ML projects I have done this year
+# Projects
+AI and ML projects I have done from time-to-time
